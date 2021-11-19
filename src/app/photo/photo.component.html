@@ -1,0 +1,33 @@
+<div class="white-bg text-center py-5">
+  <h1 class="handwritten pt-5">{{ course.numeCurs }}</h1>
+  <p>{{ course.smallText }}</p>
+  <!-- Courses cards section -->
+  <div class="container pt-5">
+    <div class="container">
+      <div class="row d-flex justify-content-center align-items-center">
+        <div class="col-md-6">
+          <h1 class="py-3 handwritten-text">Cine va fi mentorul meu?</h1>
+          <h1 class="handwritten-text pb-3">{{ course.mentorName }}</h1>
+          <p class="description">{{ course.description }}</p>
+        </div>
+        <div class="col-md-6">
+          <img
+            src="../../assets/img/cursuri/{{ course.imgUrl }}"
+            alt="instructor-img"
+            class="img-fluid w-75"
+          />
+        </div>
+      </div>
+      <div class="py-5">
+        <h1 class="handwritten-text pb-3">Ce voi invata la acest curs?</h1>
+        <p class="description">{{ course.whatToLearn }}</p>
+      </div>
+      <div class="py-5">
+        <h1 class="handwritten-text pb-3">
+          Care sunt criteriile necesare pentru a participa la acest curs?
+        </h1>
+        <p class="description">{{ course.criterias }}</p>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Signika:wght@400;700&display=swap");
+body {
+  font-family: "Signika", sans-serif;
+
+  h1 {
+    font-weight: 700;
+  }
+
+  .handwritten {
+    font-family: "Pacifico", sans-serif;
+    color: #0042c6;
+    font-size: 1.5em;
+    font-weight: normal;
+  }
+}

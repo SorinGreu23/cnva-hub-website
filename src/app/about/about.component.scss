@@ -1,0 +1,39 @@
+.white-bg {
+  background-image: url("../../assets/img/swirl-bg.png");
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+
+  h1 {
+    font-size: 3.5em;
+  }
+
+  h2{
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+}
+
+.main-about{
+  height: 500px;
+}
+
+.blue-bg {
+  color: white;
+  background-color: #0042c6;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  img{
+      width: 200px;
+  }
+}
+
+.ask-social-text{
+  font-family: 'Pacifico', sans-serif;
+  font-weight: normal;
+  font-size: 1em;
+}
+
+
+

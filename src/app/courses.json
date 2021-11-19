@@ -1,0 +1,38 @@
+[
+  {
+    "numeCurs": "Web Dev HUB!",
+    "imgUrl": "sorin-web.png",
+    "smallText": "AKA \"PROGRAMARE\"",
+    "mentorName": "Sorin Greu",
+    "description": "Cu o experienta de mai bine de 3 ani in domeniul IT, Sorin este un tanar elev al CNVAIS si bursier al companiei Centric IT Solutions Romania. Pasionat atat de coding, cat si de knowledge sharing, el va fi sprijinul vostru in dezvoltarea unei potentiale cariere ca programator web.",
+    "whatToLearn": "Pe parcursul acestui curs veti invata cum sa realizati site-uri si aplicatii web cu ajutorul celor mai noi si interesante tehnologii.",
+    "criterias": "Varsta minima pentru a participa la acest curs este de 12 ani. Nu este nevoie de experienta anterioara, deci te asteptam cu drag alaturi de noi!"
+  },
+  {
+    "numeCurs": "Graphics HUB!",
+    "imgUrl": "rares-graphics.png",
+    "smallText": "AKA \"DESIGN GRAFIC\"",
+    "mentorName": "Rares Cucuzel",
+    "description": "Rares, n-ai mai dat descrierea...pnm, aia e, asta ramane descrierea pt website. Csf, ncsf *insert sad emoji here*",
+    "whatToLearn": "Aici punem ce ne invata domnu rareshino, cand ne-o spune ce ne invata",
+    "criterias": "Aici ne va spune domnu raresh ce criterii are sau daca nu are deloc. Ramane de vazut, pana atunci mai este..."
+  },
+  {
+    "numeCurs": "Social HUB!",
+    "imgUrl": "miruna-social.png",
+    "smallText": "AKA \"DEZVOLTARE PERSONALA\"",
+    "mentorName": "Miruna Bejnariu/Roman",
+    "description": "De acest curs se ocupa Miruna, dar la puterea a doua. Pasionate de psihologie si cu dorinta de a aduce o schimbare in comunitatea in care traim, Miruna Bejnariu si Miruna Golie Roman se vor ocupa de moderarea acestui curs.",
+    "whatToLearn": "In acest Hub vom identifica impreuna probleme cu care ne comfruntam zilnic, vom exersa comunicarea si vom lucra cu noi înșine pentru a ne dezvolta pe plan personal. Scopul acestui Hub este de a ne adapta vremurilor in care traim, luptand cu anxietatea, bully-ul, stima de sine scazuta si lipsta comunicarii.",
+    "criterias": "Pentru acest curs, varsta nu este o problema. Acest Hub are loc pentru toti elevii acesui colegiu, de la clasa a V-a si pana la a XII-a. Respectul, intelegerea si bunul simt sunt calitatile pe care cursantii trebuie sa le aiba pentru a face impreuna amintiri de neuitat."
+  },
+  {
+    "numeCurs": "Photo HUB",
+    "imgUrl": "flo-foto.png",
+    "smallText": "AKA \"FOTOGRAFIE\"",
+    "mentorName": "Eduard Florentin",
+    "description": "Instructorul vostru va fi Eduard Florentin, student la Facultatea de Arte Vizuale și Design Iași, specializarea Fotografie - Videografie. Acesta este un fotograf ce a participat la nenumărate evenimente de voluntariat (Rock 'N Iași, Rocanotherworld, Afterhills, Noaptea Albă a Galeriilor, Festivalul Luminii, GFest, etc.) și cu experiență în a preda fotografie la Clubul Fabrica de Voluntari. Pasiunea pentru fotografie a adus cu sine și premii, cel mai important fiind \"Selecția Editorilor 2021 Fotografi Cameramani România\".",
+    "whatToLearn": "Scopul acestui curs este să învățați cum puteți trece de la \"poze\" la fotografii artistice, ce transmit emoții și povești. La final, veți avea o nouă percepție asupra fotografiei și veți ști cum să vă exprimați creativitatea la cel mai înalt nivel.",
+    "criterias": "Acest curs este adresat atât celor care doresc să învețe cum să creeze imagini dinamice și interesante, cât și celor care doresc să-și dezvolte latura artistică. Pentru a participa la acest curs aveți nevoie de un aparat foto DSLR, Compact sau Mirrorless. Cu toate acestea, acest curs este destinat și celor care fotografiază cu telefonul mobil."
+  }
+]

@@ -13,6 +13,7 @@ import { NgxSpinnerModule } from 'ngx-spinner';
 import { WebComponent } from './web/web.component';
 import { SocialComponent } from './social/social.component';
 import { PhotoComponent } from './photo/photo.component';
+import { CountdownComponent } from './countdown/countdown.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { PhotoComponent } from './photo/photo.component';
     WebComponent,
     SocialComponent,
     PhotoComponent,
+    CountdownComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, NgxSpinnerModule, BrowserAnimationsModule],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],

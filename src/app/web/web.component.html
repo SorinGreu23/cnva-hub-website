@@ -5,6 +5,27 @@
   <div class="container pt-5">
     <div class="container">
       <div class="row d-flex justify-content-center align-items-center">
+        <div class="card">
+          <div class="card-header">
+            <h3>ANUNT IMPORTANT</h3>
+          </div>
+          <div class="card-body">
+            <h4>Hello tuturor! Din nefericire, deoarece am finalizat liceul iar timpul limitat nu-mi va permite sa
+              continui activitatea, WebDev HUB nu va mai avea loc incepand cu urmatoarele editii.
+              <br>
+              Din
+              fericire insa, am placerea sa va anunt ca <strong>materialele folosite pana acum pentru cursurile de
+                programare
+                web si C++ sunt publice</strong> si le puteti accesa oricand, folosind butonul de mai jos. <br>
+              Enjoy si spor la coding!
+            </h4>
+            <h5 class="py-3"><em>Sorin Greu - Co-Founder</em></h5>
+            <button class="btn btn-primary btn-round text-uppercase mb-3"><i class="fa fa-download"
+                aria-hidden="true"></i>
+              Download</button>
+          </div>
+        </div>
+
         <div class="col-md-6">
           <h1 class="py-3 handwritten-text">
             Cine va fi mentorul meu?
@@ -12,12 +33,8 @@
           <h1 class="handwritten-text pb-3">{{ course.mentorName }}</h1>
           <p class="description">{{ course.description }}</p>
         </div>
-        <div class="col-md-6">
-          <img
-            src="../../assets/img/cursuri/{{ course.imgUrl }}"
-            alt="instructor-img"
-            class="img-fluid w-75"
-          />
+        <div class="col-md-6 pt-5">
+          <img src="../../assets/img/cursuri/{{ course.imgUrl }}" alt="instructor-img" class="img-fluid w-75" />
         </div>
       </div>
       <div class="py-5">

@@ -8,12 +8,37 @@
     font-size: 5.5em;
   }
 
-  .handwritten-text{
+  .handwritten-text {
     font-family: "Pacifico", sans-serif;
     color: #0042c6;
   }
 
-  .description{
-      font-size: 1.2em;
+  .description {
+    font-size: 1.2em;
   }
+}
+
+.card {
+  border-radius: 30px;
+  border: none;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.btn {
+  font-size: 1em;
+  width: 200px;
+}
+
+.btn.btn-round {
+  border-radius: 40px;
+}
+
+.btn.btn-primary {
+  background: #3e64ff;
+  border-color: #3e64ff;
+  color: #fff;
+}
+
+i {
+  margin-right: 10px;
 }
